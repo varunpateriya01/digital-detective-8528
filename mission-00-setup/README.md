@@ -28,4 +28,4 @@ _Record how you addressed each difficulty. If none, write “Not applicable”._
 The root README and mission-folder structure are present. The folder has not yet been initialized as a Git repository or pushed to GitHub.
 
 ## 9. Commit details
-_Add the meaningful commit message and confirm when the work is pushed to GitHub._
+Local commit created: `ae699ab` — `Set up Digital Detective mission structure`. It has not been pushed to GitHub yet.
