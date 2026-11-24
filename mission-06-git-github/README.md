@@ -7,7 +7,7 @@ Mission 6 — Git and GitHub
 Use Git to inspect repository state and history, stage and commit a selected change, create a branch, and open a Pull Request.
 
 ## 3. Work completed
-I inspected the repository status and commit history, created the `update-about` branch, and added a `My Learning` section to the root README. I staged the two documentation files, committed the branch changes, pushed the branch to GitHub, and opened a Pull Request into `main`. The PR is left open and unmerged because merging is only required if the instructor requests it.
+I inspected the repository status and commit history, created the `update-about` branch, and added a `My Learning` section to the root README. I staged the two documentation files, committed the branch changes, pushed the branch to GitHub, and opened a Pull Request into `main`. The PR is #1, left open and unmerged because merging is only required if the instructor requests it.
 
 ### Git command glossary
 
@@ -45,7 +45,7 @@ Not applicable.
 
 ## 8. Evidence / files
 - Root `README.md` — includes the `My Learning` section on the `update-about` branch.
-- Pull Request from `update-about` into `main` — open and not merged.
+- [Pull Request #1](https://github.com/varunpateriya01/digital-detective-8528/pull/1) from `update-about` into `main` — open and not merged.
 - Commit history on GitHub — shows separate mission checkpoints.
 
 ## 9. Commit details

@@ -13,7 +13,8 @@ Starter workspace for the Diwali independent learning assignment. Complete each 
 - [x] Mission 3 — Operating system and file management.
 - [x] Mission 4 — Program execution.
 - [x] Mission 5 — Number systems, encoding and converter.
-- [ ] Missions 6–8 — still in progress.
+- [x] Mission 6 — Git workflow and Pull Request #1 (open; not merged).
+- [ ] Missions 7–8 — still in progress.
 - [ ] Final review and instructor form submission.
 
 ## Mission index
