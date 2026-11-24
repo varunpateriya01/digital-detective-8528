@@ -1,0 +1,2 @@
+First line: Terminal can create files.
+Second line: appending keeps the first line.

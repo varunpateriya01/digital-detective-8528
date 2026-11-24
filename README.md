@@ -9,7 +9,8 @@ Starter workspace for the Diwali independent learning assignment. Complete each 
 - [x] Starter folder structure created and pushed to the public GitHub repository.
 - [x] Mission 0 — GitHub workspace setup.
 - [x] Mission 1 — Computer basics and IPOS.
-- [ ] Missions 2–8 — still in progress.
+- [x] Mission 2 — Terminal and file management.
+- [ ] Missions 3–8 — still in progress.
 - [ ] Final review and instructor form submission.
 
 ## Mission index
