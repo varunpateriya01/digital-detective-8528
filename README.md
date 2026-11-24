@@ -7,11 +7,10 @@ Starter workspace for the Diwali independent learning assignment. Complete each 
 ## Progress
 
 - [x] Starter folder structure created and pushed to the public GitHub repository.
-- [ ] Mission 0 README needs your own explanation of repositories and the folder structure, plus any setup difficulty.
-- [ ] Missions 1–8 are not completed yet.
-- [ ] Final review and instructor form submission are not completed.
-
-This repository is a work in progress and is not ready to submit.
+- [x] Mission 0 — GitHub workspace setup.
+- [x] Mission 1 — Computer basics and IPOS.
+- [ ] Missions 2–8 — still in progress.
+- [ ] Final review and instructor form submission.
 
 ## Mission index
 
