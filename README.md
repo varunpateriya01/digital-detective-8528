@@ -43,3 +43,9 @@ _Complete after working through the missions. Use your own examples and describe
 ## Privacy
 
 Do not publish passwords, access tokens, account email, device identifiers, Wi-Fi names, IP addresses, or other private output.
+
+## My Learning
+
+- A running program is a process, and the operating system shares CPU time and memory among processes.
+- Terminal commands can create, copy, rename and display files; `>` replaces file contents while `>>` appends.
+- Python can convert numbers between bases, and a standard encoding maps character data to numbers.
