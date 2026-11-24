@@ -11,7 +11,8 @@ Starter workspace for the Diwali independent learning assignment. Complete each 
 - [x] Mission 1 — Computer basics and IPOS.
 - [x] Mission 2 — Terminal and file management.
 - [x] Mission 3 — Operating system and file management.
-- [ ] Missions 4–8 — still in progress.
+- [x] Mission 4 — Program execution.
+- [ ] Missions 5–8 — still in progress.
 - [ ] Final review and instructor form submission.
 
 ## Mission index
