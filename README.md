@@ -4,6 +4,15 @@ Starter workspace for the Diwali independent learning assignment. Complete each 
 
 **Repository naming:** The assignment requires `digital-detective-<last-four-USN-digits>`. The local folder now uses the required assignment naming pattern.
 
+## Progress
+
+- [x] Starter folder structure created and pushed to the public GitHub repository.
+- [ ] Mission 0 README needs your own explanation of repositories and the folder structure, plus any setup difficulty.
+- [ ] Missions 1–8 are not completed yet.
+- [ ] Final review and instructor form submission are not completed.
+
+This repository is a work in progress and is not ready to submit.
+
 ## Mission index
 
 - [Mission 0 — Create your GitHub workspace](./mission-00-setup/README.md)

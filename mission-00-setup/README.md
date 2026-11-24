@@ -28,4 +28,8 @@ _Record how you addressed each difficulty. If none, write “Not applicable”._
 The root README and mission-folder structure are present. The folder has not yet been initialized as a Git repository or pushed to GitHub.
 
 ## 9. Commit details
-Local commit created: `ae699ab` — `Set up Digital Detective mission structure`. It has not been pushed to GitHub yet.
+Setup commits pushed to GitHub:
+- `ae699ab` — `Set up Digital Detective mission structure`
+- `5c49dc6` — `Document Mission 0 setup checkpoint`
+
+Mission 0 still needs your own explanation of what a repository is, why the folders are grouped by mission, and any setup difficulty.
