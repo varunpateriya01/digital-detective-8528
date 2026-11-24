@@ -12,7 +12,8 @@ Starter workspace for the Diwali independent learning assignment. Complete each 
 - [x] Mission 2 — Terminal and file management.
 - [x] Mission 3 — Operating system and file management.
 - [x] Mission 4 — Program execution.
-- [ ] Missions 5–8 — still in progress.
+- [x] Mission 5 — Number systems, encoding and converter.
+- [ ] Missions 6–8 — still in progress.
 - [ ] Final review and instructor form submission.
 
 ## Mission index
