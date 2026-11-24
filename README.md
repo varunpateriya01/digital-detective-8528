@@ -10,7 +10,8 @@ Starter workspace for the Diwali independent learning assignment. Complete each 
 - [x] Mission 0 — GitHub workspace setup.
 - [x] Mission 1 — Computer basics and IPOS.
 - [x] Mission 2 — Terminal and file management.
-- [ ] Missions 3–8 — still in progress.
+- [x] Mission 3 — Operating system and file management.
+- [ ] Missions 4–8 — still in progress.
 - [ ] Final review and instructor form submission.
 
 ## Mission index
