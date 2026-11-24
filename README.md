@@ -13,7 +13,9 @@ Starter workspace for the Diwali independent learning assignment. Complete each 
 - [x] Mission 3 — Operating system and file management.
 - [x] Mission 4 — Program execution.
 - [x] Mission 5 — Number systems, encoding and converter.
-- [ ] Missions 6–8 — still in progress.
+- [x] Mission 6 — Git workflow; [Pull Request #1](https://github.com/varunpateriya01/digital-detective-8528/pull/1) is open and unmerged.
+- [x] Mission 7 — Networking concepts and observations.
+- [ ] Mission 8 — final review remains.
 - [ ] Final review and instructor form submission.
 
 ## Mission index
