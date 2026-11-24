@@ -21,10 +21,10 @@ Homebrew was installed. `brew --version` returned `Homebrew 7.0.7`; `brew list -
 | `ls` | List visible names. | Listed `practice` from the terminal-practice folder. |
 | `ls -lah` | Show details, hidden names and human-readable sizes. | Included `.hidden-demo`, permissions, file sizes and timestamps. |
 | `cd ..` / `cd terminal-practice` | Change directories. | Moving to the parent changed the location from the practice folder to the Mission 2 folder. |
-| `mkdir practice` | Create a directory. | Created the isolated file-practice area. |
+| `mkdir -p mission-02-terminal/terminal-practice/practice` | Create the practice directory path. | Created the isolated file-practice area inside the mission folder. |
 | `touch empty.txt` | Create an empty file. | The listing showed a zero-byte file. |
-| `cp notes.txt notes-backup.txt` | Copy a file. | The source and backup both remained. |
-| `mv copied.txt moved-and-renamed.txt` | Move or rename a file. | The renamed copy appeared under its new name. |
+| `cp notes.txt backup.txt` followed by `mv backup.txt notes-backup.txt` | Copy a file, then rename the copy. | The original and renamed backup both remained. |
+| `cp notes.txt copied.txt` followed by `mv copied.txt moved-and-renamed.txt` | Copy a file, then rename the copy. | The renamed copy appeared under its new name; the original remained. |
 | `cat notes.txt` | Display file contents. | Both saved lines were printed. |
 | `>` and `>>` | Write or append redirected output. | `>` made the first line; `>>` added the second without erasing it. |
 | `ls -lh \| head -n 5` | Pipe a listing to another command. | `ls` supplied lines; `head` kept the first five. |
