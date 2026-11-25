@@ -36,7 +36,7 @@ python3 mission-05-numbers-data/number_converter.py
 
 Enter a non-negative decimal integer. The program prints its binary and hexadecimal forms.
 
-## Learning summary
+## My Learning
 
 The missions showed me that a computer combines hardware and software: the operating system manages the hardware while applications run as processes. Terminal and Git give me ways to manage files and record changes. Number bases and character encodings explain how data is represented, while DNS and network protocols explain how a browser reaches a website.
 
